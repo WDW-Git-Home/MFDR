@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+mfdr_settings.json
+rename_log_*.json
+mf_renamer.py.orig
